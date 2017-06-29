@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2017/6/4 20:15
-# @Author  : lileilei
+# @Time    : 2017/06/28
+# @Author  : Veryci
 # @Site    :
-# @File    : ceshiyongli.py
+# @File    : TestCase.py
 # @Software: PyCharm
 import unittest,os
 from  Public import BSTestRunner
